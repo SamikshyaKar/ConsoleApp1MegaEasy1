@@ -7,3 +7,5 @@ Validatesubsq.ValidSq2();
 BubbleSort.Bubblesort();
 Insertion.InsertionSort();
 SelectionSort.SelectionIndexSorting();
+SummationTwoNum.SummationTwoSum();
+Experiments.display();
